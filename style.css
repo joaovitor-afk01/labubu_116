@@ -10,7 +10,7 @@ body {
 
 header {
     text-align: center;
-    background-color: #0d47a1;
+    background-color: #a1120d;
     color: white;
     padding: 30px;
     border-radius: 12px;
@@ -21,7 +21,7 @@ img {
     width: 100%;
     max-width: 600px;
     border-radius: 10px;
-    border: 3px solid #1a73e8;
+    border: 3px solid #990000;
     display: block;
     margin: 16px auto;
 }
@@ -34,13 +34,13 @@ section {
 }
 
 a {
-    color: #1a73e8;
+    color: #f30404;
     font-weight: bold;
 }
 
 blockquote {
     background-color: #f5f5f5;
-    border-left: 4px solid #1a73e8;
+    border-left: 4px solid #f32e2e;
     padding: 12px 20px;
     margin: 12px 0;
     font-style: italic;
